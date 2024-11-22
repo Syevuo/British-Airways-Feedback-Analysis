@@ -21,7 +21,7 @@ This project is subdivided into four sections including;
   - Seaborn
 
 ## Data Mining
-The inaugural stage of the analysis is web scrapping information from [this website](https://www.airlinequality.com/airline-reviews/british-airways).
+The inaugural stage of the analysis is web scraping information from [this website](https://www.airlinequality.com/airline-reviews/british-airways).
 Additional metrics such as author, country, rating, overall_rating, date_published, type_of_traveller, seat_type, route and recommended were included to enrich the analysis.
 
 ## Data Preparation
